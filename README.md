@@ -4,8 +4,8 @@ Soul-driven AI agent with permission-hardened tools, token budgets, and multi-ch
 
 - **Upstream**: <https://github.com/cosmicstack-labs/mercury-agent>
 - **Homepage**: <https://mercuryagent.sh/>
-- **Latest release**: `v1.2.2` (2026-08-10)
-- **Last commit**: 2026-08-25
+- **Latest release**: `v1.2.3` (2026-09-08)
+- **Last commit**: 2026-09-09
 - **License**: MIT
 - **Stars**: 3083 · **Forks**: 333 · **Open issues**: 45 · **Contributors**: 11
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/mercury-agent> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T11:16:08Z._
+_Last regenerated: 2026-09-09T05:26:50Z._
