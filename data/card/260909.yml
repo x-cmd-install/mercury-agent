@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.2.3"
   latestRelease: "v1.2.3"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:26:41Z
+  collectedAt: 2026-09-09T19:24:56Z
 timeline:
   created: 2026-04-20
   lastCommit: 2026-09-09
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-09-08
   lastPrerelease: 
 popularity:
-  star: 3083
+  star: 3082
   watcher: 20
-  fork: 333
+  fork: 332
   release: 31
   contributor: 11
   pullRequest: 67
@@ -89,7 +89,7 @@ total:
   commit: 260
 ---
 path: /home/runner/.x-repo/github.com/cosmicstack-labs/mercury-agent
-collectedAt: 2026-09-09T05:26:44Z
+collectedAt: 2026-09-09T19:25:00Z
 loc:
   TypeScript:
     code: 44578
