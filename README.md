@@ -7,7 +7,7 @@ Soul-driven AI agent with permission-hardened tools, token budgets, and multi-ch
 - **Latest release**: `v1.2.3` (2026-09-08)
 - **Last commit**: 2026-09-09
 - **License**: MIT
-- **Stars**: 3083 · **Forks**: 333 · **Open issues**: 45 · **Contributors**: 11
+- **Stars**: 3082 · **Forks**: 332 · **Open issues**: 45 · **Contributors**: 11
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/mercury-agent> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T05:26:50Z._
+_Last regenerated: 2026-09-09T19:25:11Z._
