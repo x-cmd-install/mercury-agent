@@ -4,7 +4,7 @@
 
 Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI, Telegram or More.
 
-![mercury-agent](https://repo.x-cmd.io/mercury-agent.svg?lang=zh)
+[![x-cmd/install — mercury-agent Code Quality Monitoring Repo Card](https://repo.x-cmd.io/mercury-agent.svg?lang=zh)](https://x-cmd.com/install/mercury-agent)
 
 ## 安装
 
@@ -14,13 +14,13 @@ x install mercury-agent
 
 ## 代码洞察
 
-合计: **117,055** 行代码（覆盖前 5 种语言、共 **397** 个文件）。
+合计: **117,292** 行代码（覆盖前 5 种语言、共 **399** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| TypeScript | 48,063 | 3,299 | 5,657 | 269 |
-| Json | 40,258 | 0 | 0 | 12 |
-| Tsx | 18,864 | 648 | 1,427 | 65 |
+| TypeScript | 48,293 | 3,321 | 5,690 | 271 |
+| Json | 40,260 | 0 | 0 | 12 |
+| Tsx | 18,865 | 648 | 1,427 | 65 |
 | Html | 3,061 | 0 | 0 | 50 |
 | Yaml | 3,046 | 0 | 881 | 1 |
 
@@ -33,27 +33,27 @@ x install mercury-agent
 ## 发布
 
 - **最新版本**: `v1.2.7` (2026-09-14)
-- **最近提交**: 2026-09-16
+- **最近提交**: 2026-09-19
 - **Release 含资产**: 7 个
 
 ## 流行度
 
-- **Star**: 3,154 · **Fork**: 340 · **开放 issue**: 47 · **贡献者**: 15
+- **Star**: 3,160 · **Fork**: 340 · **开放 issue**: 47 · **贡献者**: 17
 
 ## 累计统计
 
-- **发布数**: 35 · **已合并 PR**: 34 · **开放 PR**: 21 · **已关闭 issue**: 10 · **开放 issue**: 37 · **提交数**: 309
+- **发布数**: 35 · **已合并 PR**: 38 · **开放 PR**: 18 · **已关闭 issue**: 15 · **开放 issue**: 32 · **提交数**: 321
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 5 | 7 | 3 | 0 | 2 | 46 |
-| last60d | 2026-07-20 | 6 | 10 | 3 | 6 | 12 | 60 |
-| 90d | 2026-06-20 | 6 | 13 | 5 | 6 | 17 | 67 |
-| last180d | 2026-03-22 | 35 | 34 | 21 | 10 | 37 | 293 |
-| 360d | 2025-09-23 | 35 | 34 | 21 | 10 | 37 | 293 |
-| last720d | 2024-09-28 | 35 | 34 | 21 | 10 | 37 | 309 |
+| 30d | 2026-08-21 | 5 | 10 | 1 | 2 | 0 | 54 |
+| last60d | 2026-07-22 | 6 | 13 | 1 | 11 | 7 | 68 |
+| 90d | 2026-06-22 | 6 | 17 | 2 | 11 | 9 | 76 |
+| last180d | 2026-03-24 | 35 | 38 | 18 | 15 | 32 | 302 |
+| 360d | 2025-09-25 | 35 | 38 | 18 | 15 | 32 | 302 |
+| last720d | 2024-09-30 | 35 | 38 | 18 | 15 | 32 | 321 |
 
 ## Release 资产
 
@@ -76,4 +76,4 @@ mercury-agent 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:12:41Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:31:11Z._
