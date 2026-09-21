@@ -38,22 +38,22 @@ Total: **117,292** lines of code across **399** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,160 · **Forks**: 340 · **Open issues**: 47 · **Contributors**: 17
+- **Stars**: 3,164 · **Forks**: 341 · **Open issues**: 47 · **Contributors**: 17
 
 ## Totals (cumulative)
 
-- **Releases**: 35 · **Merged PRs**: 38 · **Open PRs**: 18 · **Closed issues**: 15 · **Open issues**: 32 · **Commits**: 321
+- **Releases**: 35 · **Merged PRs**: 38 · **Open PRs**: 19 · **Closed issues**: 15 · **Open issues**: 32 · **Commits**: 321
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 5 | 10 | 1 | 2 | 0 | 54 |
-| last60d | 2026-07-22 | 6 | 13 | 1 | 11 | 7 | 68 |
-| 90d | 2026-06-22 | 6 | 17 | 2 | 11 | 9 | 76 |
-| last180d | 2026-03-24 | 35 | 38 | 18 | 15 | 32 | 302 |
-| 360d | 2025-09-25 | 35 | 38 | 18 | 15 | 32 | 302 |
-| last720d | 2024-09-30 | 35 | 38 | 18 | 15 | 32 | 321 |
+| 30d | 2026-08-22 | 5 | 10 | 2 | 2 | 0 | 52 |
+| last60d | 2026-07-23 | 6 | 13 | 2 | 11 | 7 | 68 |
+| 90d | 2026-06-23 | 6 | 17 | 3 | 11 | 9 | 76 |
+| last180d | 2026-03-25 | 35 | 38 | 19 | 15 | 32 | 302 |
+| 360d | 2025-09-26 | 35 | 38 | 19 | 15 | 32 | 302 |
+| last720d | 2024-10-01 | 35 | 38 | 19 | 15 | 32 | 321 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for mercury-agent lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T05:31:10Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T05:29:53Z._
