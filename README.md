@@ -4,7 +4,7 @@
 
 Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI, Telegram or More.
 
-[![x-cmd/install — mercury-agent Code Quality Monitoring Repo Card](https://repo.x-cmd.io/mercury-agent.svg)](https://x-cmd.com/install/mercury-agent)
+[![x-cmd/install — mercury-agent Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/mercury-agent.svg)](https://x-cmd.com/install/mercury-agent)
 
 ## Install
 
@@ -38,7 +38,7 @@ Total: **117,444** lines of code across **400** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,167 · **Forks**: 341 · **Open issues**: 47 · **Contributors**: 17
+- **Stars**: 3,169 · **Forks**: 341 · **Open issues**: 47 · **Contributors**: 17
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **117,444** lines of code across **400** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 5 | 13 | 1 | 2 | 0 | 56 |
-| last60d | 2026-07-24 | 6 | 16 | 1 | 12 | 6 | 72 |
-| 90d | 2026-06-24 | 6 | 20 | 2 | 13 | 7 | 80 |
-| last180d | 2026-03-26 | 35 | 41 | 18 | 18 | 29 | 306 |
-| 360d | 2025-09-27 | 35 | 41 | 18 | 18 | 29 | 306 |
-| last720d | 2024-10-02 | 35 | 41 | 18 | 18 | 29 | 328 |
+| 30d | 2026-08-24 | 5 | 13 | 1 | 2 | 0 | 56 |
+| last60d | 2026-07-25 | 6 | 16 | 1 | 12 | 6 | 72 |
+| 90d | 2026-06-25 | 6 | 20 | 2 | 13 | 7 | 80 |
+| last180d | 2026-03-27 | 35 | 41 | 18 | 18 | 29 | 306 |
+| 360d | 2025-09-28 | 35 | 41 | 18 | 18 | 29 | 306 |
+| last720d | 2024-10-03 | 35 | 41 | 18 | 18 | 29 | 328 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for mercury-agent lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:22:02Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:19:37Z._

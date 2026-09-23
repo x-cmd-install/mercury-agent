@@ -4,7 +4,7 @@
 
 Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI, Telegram or More.
 
-[![x-cmd/install — mercury-agent Code Quality Monitoring Repo Card](https://repo.x-cmd.io/mercury-agent.svg?lang=zh)](https://x-cmd.com/install/mercury-agent)
+[![x-cmd/install — mercury-agent Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/mercury-agent.svg?lang=zh)](https://x-cmd.com/install/mercury-agent)
 
 ## 安装
 
@@ -38,7 +38,7 @@ x install mercury-agent
 
 ## 流行度
 
-- **Star**: 3,167 · **Fork**: 341 · **开放 issue**: 47 · **贡献者**: 17
+- **Star**: 3,169 · **Fork**: 341 · **开放 issue**: 47 · **贡献者**: 17
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install mercury-agent
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 5 | 13 | 1 | 2 | 0 | 56 |
-| last60d | 2026-07-24 | 6 | 16 | 1 | 12 | 6 | 72 |
-| 90d | 2026-06-24 | 6 | 20 | 2 | 13 | 7 | 80 |
-| last180d | 2026-03-26 | 35 | 41 | 18 | 18 | 29 | 306 |
-| 360d | 2025-09-27 | 35 | 41 | 18 | 18 | 29 | 306 |
-| last720d | 2024-10-02 | 35 | 41 | 18 | 18 | 29 | 328 |
+| 30d | 2026-08-24 | 5 | 13 | 1 | 2 | 0 | 56 |
+| last60d | 2026-07-25 | 6 | 16 | 1 | 12 | 6 | 72 |
+| 90d | 2026-06-25 | 6 | 20 | 2 | 13 | 7 | 80 |
+| last180d | 2026-03-27 | 35 | 41 | 18 | 18 | 29 | 306 |
+| 360d | 2025-09-28 | 35 | 41 | 18 | 18 | 29 | 306 |
+| last720d | 2024-10-03 | 35 | 41 | 18 | 18 | 29 | 328 |
 
 ## Release 资产
 
@@ -76,4 +76,4 @@ mercury-agent 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:22:02Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:19:38Z._
