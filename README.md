@@ -33,27 +33,27 @@ Total: **149,623** lines of code across **780** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.3.8` (2026-10-12)
-- **Last commit**: 2026-10-14
+- **Last commit**: 2026-10-15
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 3,381 · **Forks**: 354 · **Open issues**: 48 · **Contributors**: 19
+- **Stars**: 3,389 · **Forks**: 356 · **Open issues**: 49 · **Contributors**: 19
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 97 · **Open PRs**: 1 · **Closed issues**: 39 · **Open issues**: 9 · **Commits**: 581
+- **Releases**: 45 · **Merged PRs**: 97 · **Open PRs**: 6 · **Closed issues**: 39 · **Open issues**: 10 · **Commits**: 585
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 12 | 65 | 1 | 3 | 0 | 189 |
-| last60d | 2026-08-15 | 15 | 69 | 1 | 4 | 0 | 254 |
-| 90d | 2026-07-16 | 16 | 72 | 1 | 20 | 0 | 264 |
-| last180d | 2026-04-17 | 45 | 97 | 1 | 39 | 9 | 466 |
-| 360d | 2025-10-19 | 45 | 97 | 1 | 39 | 9 | 498 |
-| last720d | 2024-10-24 | 45 | 97 | 1 | 39 | 9 | 581 |
+| 30d | 2026-09-15 | 10 | 62 | 6 | 3 | 1 | 193 |
+| last60d | 2026-08-16 | 15 | 69 | 6 | 3 | 1 | 258 |
+| 90d | 2026-07-17 | 16 | 72 | 6 | 20 | 1 | 268 |
+| last180d | 2026-04-18 | 45 | 97 | 6 | 39 | 10 | 470 |
+| 360d | 2025-10-20 | 45 | 97 | 6 | 39 | 10 | 502 |
+| last720d | 2024-10-25 | 45 | 97 | 6 | 39 | 10 | 585 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for mercury-agent lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T05:12:29Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T04:58:05Z._
