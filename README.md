@@ -33,27 +33,27 @@ Total: **158,712** lines of code across **923** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.3.8` (2026-10-12)
-- **Last commit**: 2026-10-18
+- **Last commit**: 2026-10-19
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 3,432 · **Forks**: 364 · **Open issues**: 51 · **Contributors**: 21
+- **Stars**: 3,433 · **Forks**: 372 · **Open issues**: 51 · **Contributors**: 21
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 105 · **Open PRs**: 2 · **Closed issues**: 39 · **Open issues**: 12 · **Commits**: 622
+- **Releases**: 45 · **Merged PRs**: 105 · **Open PRs**: 2 · **Closed issues**: 39 · **Open issues**: 12 · **Commits**: 626
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 10 | 67 | 2 | 1 | 3 | 194 |
-| last60d | 2026-08-19 | 15 | 77 | 2 | 3 | 3 | 281 |
-| 90d | 2026-07-20 | 16 | 80 | 2 | 19 | 3 | 297 |
-| last180d | 2026-04-21 | 44 | 104 | 2 | 39 | 11 | 391 |
-| 360d | 2025-10-23 | 45 | 105 | 2 | 39 | 12 | 531 |
-| last720d | 2024-10-28 | 45 | 105 | 2 | 39 | 12 | 622 |
+| 30d | 2026-09-19 | 10 | 66 | 2 | 1 | 3 | 198 |
+| last60d | 2026-08-20 | 15 | 77 | 2 | 3 | 3 | 285 |
+| 90d | 2026-07-21 | 16 | 80 | 2 | 19 | 3 | 301 |
+| last180d | 2026-04-22 | 33 | 102 | 2 | 39 | 11 | 395 |
+| 360d | 2025-10-24 | 45 | 105 | 2 | 39 | 12 | 535 |
+| last720d | 2024-10-29 | 45 | 105 | 2 | 39 | 12 | 626 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for mercury-agent lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T04:48:56Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T04:57:40Z._
