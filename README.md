@@ -33,27 +33,27 @@ Total: **190,533** lines of code across **1016** files in the top 5 languages.
 ## Release
 
 - **Latest**: `optimus-v0.4.9` (2026-10-26)
-- **Last commit**: 2026-10-27
+- **Last commit**: 2026-10-28
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 3,634 · **Forks**: 374 · **Open issues**: 55 · **Contributors**: 23
+- **Stars**: 3,668 · **Forks**: 376 · **Open issues**: 55 · **Contributors**: 23
 
 ## Totals (cumulative)
 
-- **Releases**: 50 · **Merged PRs**: 127 · **Open PRs**: 13 · **Closed issues**: 39 · **Open issues**: 16 · **Commits**: 745
+- **Releases**: 50 · **Merged PRs**: 127 · **Open PRs**: 14 · **Closed issues**: 39 · **Open issues**: 16 · **Commits**: 748
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 15 | 84 | 13 | 1 | 7 | 283 |
-| last60d | 2026-08-28 | 20 | 99 | 13 | 3 | 7 | 399 |
-| 90d | 2026-07-29 | 21 | 102 | 13 | 19 | 7 | 415 |
-| last180d | 2026-04-30 | 27 | 120 | 13 | 35 | 11 | 484 |
-| 360d | 2025-11-01 | 50 | 127 | 13 | 39 | 16 | 649 |
-| last720d | 2024-11-06 | 50 | 127 | 13 | 39 | 16 | 745 |
+| 30d | 2026-09-28 | 15 | 84 | 14 | 1 | 7 | 286 |
+| last60d | 2026-08-29 | 20 | 99 | 14 | 3 | 7 | 402 |
+| 90d | 2026-07-30 | 21 | 102 | 14 | 19 | 7 | 418 |
+| last180d | 2026-05-01 | 27 | 120 | 14 | 34 | 11 | 487 |
+| 360d | 2025-11-02 | 50 | 127 | 14 | 39 | 16 | 652 |
+| last720d | 2024-11-07 | 50 | 127 | 14 | 39 | 16 | 748 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for mercury-agent lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T05:22:23Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T06:00:54Z._
