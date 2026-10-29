@@ -32,28 +32,28 @@ Total: **190,533** lines of code across **1016** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `optimus-v0.4.9` (2026-10-26)
-- **Last commit**: 2026-10-28
+- **Latest**: `mercury-dev-latest` (2026-10-26)
+- **Last commit**: 2026-10-29
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 3,668 · **Forks**: 376 · **Open issues**: 55 · **Contributors**: 23
+- **Stars**: 3,683 · **Forks**: 383 · **Open issues**: 57 · **Contributors**: 23
 
 ## Totals (cumulative)
 
-- **Releases**: 50 · **Merged PRs**: 127 · **Open PRs**: 14 · **Closed issues**: 39 · **Open issues**: 16 · **Commits**: 748
+- **Releases**: 50 · **Merged PRs**: 127 · **Open PRs**: 22 · **Closed issues**: 39 · **Open issues**: 18 · **Commits**: 751
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 15 | 84 | 14 | 1 | 7 | 286 |
-| last60d | 2026-08-29 | 20 | 99 | 14 | 3 | 7 | 402 |
-| 90d | 2026-07-30 | 21 | 102 | 14 | 19 | 7 | 418 |
-| last180d | 2026-05-01 | 27 | 120 | 14 | 34 | 11 | 487 |
-| 360d | 2025-11-02 | 50 | 127 | 14 | 39 | 16 | 652 |
-| last720d | 2024-11-07 | 50 | 127 | 14 | 39 | 16 | 748 |
+| 30d | 2026-09-29 | 15 | 82 | 22 | 1 | 9 | 289 |
+| last60d | 2026-08-30 | 20 | 99 | 22 | 3 | 9 | 405 |
+| 90d | 2026-07-31 | 21 | 102 | 22 | 19 | 9 | 421 |
+| last180d | 2026-05-02 | 27 | 119 | 22 | 34 | 13 | 490 |
+| 360d | 2025-11-03 | 50 | 127 | 22 | 39 | 18 | 655 |
+| last720d | 2024-11-08 | 50 | 127 | 22 | 39 | 18 | 751 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for mercury-agent lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T06:00:54Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T06:11:20Z._
