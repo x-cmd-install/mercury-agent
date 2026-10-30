@@ -14,15 +14,15 @@ x install mercury-agent
 
 ## Code insight
 
-Total: **190,533** lines of code across **1016** files in the top 5 languages.
+Total: **221,186** lines of code across **1241** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 92,057 | 10,522 | 10,423 | 605 |
-| Json | 43,352 | 0 | 0 | 18 |
-| Tsx | 24,135 | 1,247 | 1,826 | 97 |
-| JavaScript | 11,206 | 1,311 | 314 | 271 |
-| Rust | 6,480 | 129 | 502 | 25 |
+| TypeScript | 103,342 | 11,914 | 11,760 | 726 |
+| Json | 50,322 | 0 | 0 | 24 |
+| Tsx | 34,948 | 1,839 | 2,605 | 179 |
+| JavaScript | 11,455 | 1,368 | 332 | 278 |
+| Rust | 7,428 | 158 | 579 | 34 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **190,533** lines of code across **1016** files in the top 5 languages.
 ## Release
 
 - **Latest**: `mercury-dev-latest` (2026-10-26)
-- **Last commit**: 2026-10-29
+- **Last commit**: 2026-10-30
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 3,683 · **Forks**: 383 · **Open issues**: 57 · **Contributors**: 23
+- **Stars**: 3,728 · **Forks**: 384 · **Open issues**: 57 · **Contributors**: 23
 
 ## Totals (cumulative)
 
-- **Releases**: 50 · **Merged PRs**: 127 · **Open PRs**: 22 · **Closed issues**: 39 · **Open issues**: 18 · **Commits**: 751
+- **Releases**: 50 · **Merged PRs**: 135 · **Open PRs**: 18 · **Closed issues**: 43 · **Open issues**: 14 · **Commits**: 856
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 15 | 82 | 22 | 1 | 9 | 289 |
-| last60d | 2026-08-30 | 20 | 99 | 22 | 3 | 9 | 405 |
-| 90d | 2026-07-31 | 21 | 102 | 22 | 19 | 9 | 421 |
-| last180d | 2026-05-02 | 27 | 119 | 22 | 34 | 13 | 490 |
-| 360d | 2025-11-03 | 50 | 127 | 22 | 39 | 18 | 655 |
-| last720d | 2024-11-08 | 50 | 127 | 22 | 39 | 18 | 751 |
+| 30d | 2026-09-30 | 15 | 88 | 18 | 5 | 5 | 392 |
+| last60d | 2026-08-31 | 20 | 107 | 18 | 7 | 5 | 508 |
+| 90d | 2026-08-01 | 21 | 110 | 18 | 23 | 5 | 524 |
+| last180d | 2026-05-03 | 26 | 127 | 18 | 38 | 9 | 593 |
+| 360d | 2025-11-04 | 50 | 135 | 18 | 43 | 14 | 758 |
+| last720d | 2024-11-09 | 50 | 135 | 18 | 43 | 14 | 856 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for mercury-agent lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T06:11:20Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:03:08Z._
