@@ -33,27 +33,27 @@ Total: **221,240** lines of code across **1242** files in the top 5 languages.
 ## Release
 
 - **Latest**: `whatsapp-v0.1.2` (2026-10-30)
-- **Last commit**: 2026-10-31
+- **Last commit**: 2026-11-01
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 3,750 · **Forks**: 384 · **Open issues**: 57 · **Contributors**: 23
+- **Stars**: 3,753 · **Forks**: 385 · **Open issues**: 57 · **Contributors**: 23
 
 ## Totals (cumulative)
 
-- **Releases**: 51 · **Merged PRs**: 137 · **Open PRs**: 21 · **Closed issues**: 43 · **Open issues**: 14 · **Commits**: 861
+- **Releases**: 51 · **Merged PRs**: 137 · **Open PRs**: 21 · **Closed issues**: 43 · **Open issues**: 14 · **Commits**: 864
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 16 | 87 | 21 | 5 | 5 | 397 |
-| last60d | 2026-09-01 | 21 | 109 | 21 | 7 | 5 | 513 |
-| 90d | 2026-08-02 | 22 | 112 | 21 | 23 | 5 | 529 |
-| last180d | 2026-05-04 | 27 | 129 | 21 | 38 | 9 | 598 |
-| 360d | 2025-11-05 | 51 | 137 | 21 | 43 | 14 | 763 |
-| last720d | 2024-11-10 | 51 | 137 | 21 | 43 | 14 | 861 |
+| 30d | 2026-10-02 | 16 | 87 | 21 | 5 | 5 | 382 |
+| last60d | 2026-09-02 | 21 | 109 | 21 | 7 | 5 | 511 |
+| 90d | 2026-08-03 | 22 | 112 | 21 | 22 | 5 | 532 |
+| last180d | 2026-05-05 | 27 | 129 | 21 | 37 | 8 | 572 |
+| 360d | 2025-11-06 | 51 | 137 | 21 | 43 | 14 | 766 |
+| last720d | 2024-11-11 | 51 | 137 | 21 | 43 | 14 | 864 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for mercury-agent lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T05:56:56Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T06:24:20Z._
