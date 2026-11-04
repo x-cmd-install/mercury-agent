@@ -14,15 +14,15 @@ x install mercury-agent
 
 ## Code insight
 
-Total: **221,813** lines of code across **1246** files in the top 5 languages.
+Total: **238,325** lines of code across **1370** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 103,867 | 12,013 | 11,831 | 728 |
-| Json | 50,338 | 0 | 0 | 24 |
-| Tsx | 34,948 | 1,839 | 2,605 | 179 |
-| JavaScript | 11,458 | 1,368 | 332 | 281 |
-| Rust | 7,428 | 158 | 579 | 34 |
+| TypeScript | 113,908 | 13,488 | 12,898 | 802 |
+| Json | 50,641 | 0 | 0 | 32 |
+| Tsx | 38,256 | 2,031 | 2,808 | 204 |
+| JavaScript | 11,786 | 1,450 | 362 | 296 |
+| Rust | 8,881 | 193 | 713 | 36 |
 
 ## Source
 
@@ -32,42 +32,59 @@ Total: **221,813** lines of code across **1246** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `mercury-dev-latest` (2026-10-30)
-- **Last commit**: 2026-11-03
-- **Assets in release**: 9
+- **Latest**: `v1.5.1` (2026-11-03)
+- **Last commit**: 2026-11-04
+- **Assets in release**: 26
 
 ## Popularity
 
-- **Stars**: 3,768 · **Forks**: 389 · **Open issues**: 57 · **Contributors**: 24
+- **Stars**: 3,813 · **Forks**: 392 · **Open issues**: 58 · **Contributors**: 24
 
 ## Totals (cumulative)
 
-- **Releases**: 51 · **Merged PRs**: 146 · **Open PRs**: 20 · **Closed issues**: 44 · **Open issues**: 13 · **Commits**: 879
+- **Releases**: 54 · **Merged PRs**: 151 · **Open PRs**: 18 · **Closed issues**: 44 · **Open issues**: 14 · **Commits**: 941
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 16 | 95 | 20 | 6 | 4 | 396 |
-| last60d | 2026-09-04 | 21 | 118 | 20 | 8 | 4 | 525 |
-| 90d | 2026-08-05 | 22 | 121 | 20 | 23 | 4 | 546 |
-| last180d | 2026-05-07 | 26 | 136 | 20 | 37 | 7 | 586 |
-| 360d | 2025-11-08 | 51 | 146 | 20 | 44 | 13 | 780 |
-| last720d | 2024-11-13 | 51 | 146 | 20 | 44 | 13 | 879 |
+| 30d | 2026-10-05 | 19 | 100 | 18 | 6 | 5 | 454 |
+| last60d | 2026-09-05 | 24 | 123 | 18 | 8 | 5 | 583 |
+| 90d | 2026-08-06 | 25 | 126 | 18 | 9 | 5 | 604 |
+| last180d | 2026-05-08 | 29 | 141 | 18 | 37 | 8 | 644 |
+| 360d | 2025-11-09 | 54 | 151 | 18 | 44 | 14 | 838 |
+| last720d | 2024-11-14 | 54 | 151 | 18 | 44 | 14 | 941 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.4.2/checksums.txt) | 691 B | `other` |
-| [mercury-linux-arm64](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.4.2/mercury-linux-arm64) | 94.8 MiB | `native/linux/arm64` |
-| [mercury-linux-x64](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.4.2/mercury-linux-x64) | 95.6 MiB | `other` |
-| [mercury-linux-x64-baseline](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.4.2/mercury-linux-x64-baseline) | 94.7 MiB | `other` |
-| [mercury-macos-arm64](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.4.2/mercury-macos-arm64) | 66.0 MiB | `native/darwin/arm64` |
-| [mercury-macos-x64](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.4.2/mercury-macos-x64) | 71.4 MiB | `native/darwin/x64` |
-| [mercury-win-x64-baseline.exe](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.4.2/mercury-win-x64-baseline.exe) | 98.7 MiB | `other` |
-| [mercury-win-x64.exe](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.4.2/mercury-win-x64.exe) | 99.4 MiB | `other` |
-| [web.tar.gz](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.4.2/web.tar.gz) | 1.3 MiB | `native/unknown` |
+| [checksums.txt](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/checksums.txt) | 691 B | `other` |
+| [latest.json](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/latest.json) | 6.6 KiB | `other` |
+| [Mercury-1.5.1-1.x86_64.rpm](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/Mercury-1.5.1-1.x86_64.rpm) | 5.6 MiB | `runtime/rpm/x86_64` |
+| [Mercury-1.5.1-1.x86_64.rpm.sig](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/Mercury-1.5.1-1.x86_64.rpm.sig) | 436 B | `other` |
+| [mercury-linux-arm64](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/mercury-linux-arm64) | 110.3 MiB | `native/linux/arm64` |
+| [mercury-linux-x64](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/mercury-linux-x64) | 110.2 MiB | `other` |
+| [mercury-linux-x64-baseline](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/mercury-linux-x64-baseline) | 110.2 MiB | `other` |
+| [mercury-macos-arm64](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/mercury-macos-arm64) | 91.2 MiB | `native/darwin/arm64` |
+| [mercury-macos-x64](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/mercury-macos-x64) | 99.8 MiB | `native/darwin/x64` |
+| [mercury-win-x64-baseline.exe](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/mercury-win-x64-baseline.exe) | 116.1 MiB | `other` |
+| [mercury-win-x64.exe](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/mercury-win-x64.exe) | 116.1 MiB | `other` |
+| [Mercury_1.5.1_aarch64.dmg](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/Mercury_1.5.1_aarch64.dmg) | 5.2 MiB | `other` |
+| [Mercury_1.5.1_amd64.AppImage](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/Mercury_1.5.1_amd64.AppImage) | 80.5 MiB | `other` |
+| [Mercury_1.5.1_amd64.AppImage.sig](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/Mercury_1.5.1_amd64.AppImage.sig) | 436 B | `other` |
+| [Mercury_1.5.1_amd64.deb](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/Mercury_1.5.1_amd64.deb) | 5.6 MiB | `runtime/deb/amd64` |
+| [Mercury_1.5.1_amd64.deb.sig](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/Mercury_1.5.1_amd64.deb.sig) | 432 B | `other` |
+| [Mercury_1.5.1_x64-setup.exe](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/Mercury_1.5.1_x64-setup.exe) | 4.2 MiB | `other` |
+| [Mercury_1.5.1_x64-setup.exe.sig](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/Mercury_1.5.1_x64-setup.exe.sig) | 436 B | `other` |
+| [Mercury_1.5.1_x64.dmg](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/Mercury_1.5.1_x64.dmg) | 5.5 MiB | `other` |
+| [Mercury_1.5.1_x64_en-US.msi](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/Mercury_1.5.1_x64_en-US.msi) | 5.1 MiB | `other` |
+| [Mercury_1.5.1_x64_en-US.msi.sig](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/Mercury_1.5.1_x64_en-US.msi.sig) | 436 B | `other` |
+| [Mercury_aarch64.app.tar.gz](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/Mercury_aarch64.app.tar.gz) | 5.0 MiB | `native/linux/arm64` |
+| [Mercury_aarch64.app.tar.gz.sig](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/Mercury_aarch64.app.tar.gz.sig) | 424 B | `other` |
+| [Mercury_x64.app.tar.gz](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/Mercury_x64.app.tar.gz) | 5.3 MiB | `native/unknown` |
+| [Mercury_x64.app.tar.gz.sig](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/Mercury_x64.app.tar.gz.sig) | 424 B | `other` |
+| [web.tar.gz](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/web.tar.gz) | 1.3 MiB | `native/unknown` |
 
 ## Improve this data
 
@@ -78,4 +95,4 @@ Install metadata for mercury-agent lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T07:06:51Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T06:47:52Z._

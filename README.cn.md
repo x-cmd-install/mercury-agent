@@ -14,15 +14,15 @@ x install mercury-agent
 
 ## 代码洞察
 
-合计: **221,813** 行代码（覆盖前 5 种语言、共 **1246** 个文件）。
+合计: **238,325** 行代码（覆盖前 5 种语言、共 **1370** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| TypeScript | 103,867 | 12,013 | 11,831 | 728 |
-| Json | 50,338 | 0 | 0 | 24 |
-| Tsx | 34,948 | 1,839 | 2,605 | 179 |
-| JavaScript | 11,458 | 1,368 | 332 | 281 |
-| Rust | 7,428 | 158 | 579 | 34 |
+| TypeScript | 113,908 | 13,488 | 12,898 | 802 |
+| Json | 50,641 | 0 | 0 | 32 |
+| Tsx | 38,256 | 2,031 | 2,808 | 204 |
+| JavaScript | 11,786 | 1,450 | 362 | 296 |
+| Rust | 8,881 | 193 | 713 | 36 |
 
 ## 源代码
 
@@ -32,42 +32,59 @@ x install mercury-agent
 
 ## 发布
 
-- **最新版本**: `mercury-dev-latest` (2026-10-30)
-- **最近提交**: 2026-11-03
-- **Release 含资产**: 9 个
+- **最新版本**: `v1.5.1` (2026-11-03)
+- **最近提交**: 2026-11-04
+- **Release 含资产**: 26 个
 
 ## 流行度
 
-- **Star**: 3,768 · **Fork**: 389 · **开放 issue**: 57 · **贡献者**: 24
+- **Star**: 3,813 · **Fork**: 392 · **开放 issue**: 58 · **贡献者**: 24
 
 ## 累计统计
 
-- **发布数**: 51 · **已合并 PR**: 146 · **开放 PR**: 20 · **已关闭 issue**: 44 · **开放 issue**: 13 · **提交数**: 879
+- **发布数**: 54 · **已合并 PR**: 151 · **开放 PR**: 18 · **已关闭 issue**: 44 · **开放 issue**: 14 · **提交数**: 941
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 16 | 95 | 20 | 6 | 4 | 396 |
-| last60d | 2026-09-04 | 21 | 118 | 20 | 8 | 4 | 525 |
-| 90d | 2026-08-05 | 22 | 121 | 20 | 23 | 4 | 546 |
-| last180d | 2026-05-07 | 26 | 136 | 20 | 37 | 7 | 586 |
-| 360d | 2025-11-08 | 51 | 146 | 20 | 44 | 13 | 780 |
-| last720d | 2024-11-13 | 51 | 146 | 20 | 44 | 13 | 879 |
+| 30d | 2026-10-05 | 19 | 100 | 18 | 6 | 5 | 454 |
+| last60d | 2026-09-05 | 24 | 123 | 18 | 8 | 5 | 583 |
+| 90d | 2026-08-06 | 25 | 126 | 18 | 9 | 5 | 604 |
+| last180d | 2026-05-08 | 29 | 141 | 18 | 37 | 8 | 644 |
+| 360d | 2025-11-09 | 54 | 151 | 18 | 44 | 14 | 838 |
+| last720d | 2024-11-14 | 54 | 151 | 18 | 44 | 14 | 941 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums.txt](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.4.2/checksums.txt) | 691 B | `other` |
-| [mercury-linux-arm64](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.4.2/mercury-linux-arm64) | 94.8 MiB | `native/linux/arm64` |
-| [mercury-linux-x64](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.4.2/mercury-linux-x64) | 95.6 MiB | `other` |
-| [mercury-linux-x64-baseline](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.4.2/mercury-linux-x64-baseline) | 94.7 MiB | `other` |
-| [mercury-macos-arm64](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.4.2/mercury-macos-arm64) | 66.0 MiB | `native/darwin/arm64` |
-| [mercury-macos-x64](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.4.2/mercury-macos-x64) | 71.4 MiB | `native/darwin/x64` |
-| [mercury-win-x64-baseline.exe](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.4.2/mercury-win-x64-baseline.exe) | 98.7 MiB | `other` |
-| [mercury-win-x64.exe](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.4.2/mercury-win-x64.exe) | 99.4 MiB | `other` |
-| [web.tar.gz](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.4.2/web.tar.gz) | 1.3 MiB | `native/unknown` |
+| [checksums.txt](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/checksums.txt) | 691 B | `other` |
+| [latest.json](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/latest.json) | 6.6 KiB | `other` |
+| [Mercury-1.5.1-1.x86_64.rpm](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/Mercury-1.5.1-1.x86_64.rpm) | 5.6 MiB | `runtime/rpm/x86_64` |
+| [Mercury-1.5.1-1.x86_64.rpm.sig](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/Mercury-1.5.1-1.x86_64.rpm.sig) | 436 B | `other` |
+| [mercury-linux-arm64](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/mercury-linux-arm64) | 110.3 MiB | `native/linux/arm64` |
+| [mercury-linux-x64](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/mercury-linux-x64) | 110.2 MiB | `other` |
+| [mercury-linux-x64-baseline](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/mercury-linux-x64-baseline) | 110.2 MiB | `other` |
+| [mercury-macos-arm64](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/mercury-macos-arm64) | 91.2 MiB | `native/darwin/arm64` |
+| [mercury-macos-x64](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/mercury-macos-x64) | 99.8 MiB | `native/darwin/x64` |
+| [mercury-win-x64-baseline.exe](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/mercury-win-x64-baseline.exe) | 116.1 MiB | `other` |
+| [mercury-win-x64.exe](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/mercury-win-x64.exe) | 116.1 MiB | `other` |
+| [Mercury_1.5.1_aarch64.dmg](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/Mercury_1.5.1_aarch64.dmg) | 5.2 MiB | `other` |
+| [Mercury_1.5.1_amd64.AppImage](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/Mercury_1.5.1_amd64.AppImage) | 80.5 MiB | `other` |
+| [Mercury_1.5.1_amd64.AppImage.sig](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/Mercury_1.5.1_amd64.AppImage.sig) | 436 B | `other` |
+| [Mercury_1.5.1_amd64.deb](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/Mercury_1.5.1_amd64.deb) | 5.6 MiB | `runtime/deb/amd64` |
+| [Mercury_1.5.1_amd64.deb.sig](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/Mercury_1.5.1_amd64.deb.sig) | 432 B | `other` |
+| [Mercury_1.5.1_x64-setup.exe](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/Mercury_1.5.1_x64-setup.exe) | 4.2 MiB | `other` |
+| [Mercury_1.5.1_x64-setup.exe.sig](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/Mercury_1.5.1_x64-setup.exe.sig) | 436 B | `other` |
+| [Mercury_1.5.1_x64.dmg](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/Mercury_1.5.1_x64.dmg) | 5.5 MiB | `other` |
+| [Mercury_1.5.1_x64_en-US.msi](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/Mercury_1.5.1_x64_en-US.msi) | 5.1 MiB | `other` |
+| [Mercury_1.5.1_x64_en-US.msi.sig](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/Mercury_1.5.1_x64_en-US.msi.sig) | 436 B | `other` |
+| [Mercury_aarch64.app.tar.gz](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/Mercury_aarch64.app.tar.gz) | 5.0 MiB | `native/linux/arm64` |
+| [Mercury_aarch64.app.tar.gz.sig](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/Mercury_aarch64.app.tar.gz.sig) | 424 B | `other` |
+| [Mercury_x64.app.tar.gz](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/Mercury_x64.app.tar.gz) | 5.3 MiB | `native/unknown` |
+| [Mercury_x64.app.tar.gz.sig](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/Mercury_x64.app.tar.gz.sig) | 424 B | `other` |
+| [web.tar.gz](https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/web.tar.gz) | 1.3 MiB | `native/unknown` |
 
 ## 改进这些数据
 
@@ -78,4 +95,4 @@ mercury-agent 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261103.yml` · 2026-11-03T07:06:51Z._
+_数据快照: `data/card/261104.yml` · 2026-11-04T06:47:53Z._
