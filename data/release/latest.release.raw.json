@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 691,
       "digest": "sha256:71af6faaaed0029cfb2a85ea71f97f76e25e01e12f172592cabbc4334eea3c1f",
-      "download_count": 101,
+      "download_count": 257,
       "created_at": "2026-11-03T15:14:50Z",
       "updated_at": "2026-11-03T15:14:51Z",
       "browser_download_url": "https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 6747,
       "digest": "sha256:88414fde5e88b1cd38e546630eedfee88f8f4a58d71eeb9c7a7a9f64d91b52b5",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-11-03T15:26:01Z",
       "updated_at": "2026-11-03T15:26:01Z",
       "browser_download_url": "https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/latest.json"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 5896476,
       "digest": "sha256:1c2f810de4b3dab2d28a1d64c331dddcf5bfb40a5d6fd55fd83883f170335422",
-      "download_count": 3,
+      "download_count": 7,
       "created_at": "2026-11-03T15:21:37Z",
       "updated_at": "2026-11-03T15:21:37Z",
       "browser_download_url": "https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/Mercury-1.5.1-1.x86_64.rpm"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 436,
       "digest": "sha256:e69792108374c3798e664b919497b32399d877dc0a8d2536663e4dfe12892722",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-11-03T15:21:38Z",
       "updated_at": "2026-11-03T15:21:38Z",
       "browser_download_url": "https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/Mercury-1.5.1-1.x86_64.rpm.sig"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 115657720,
       "digest": "sha256:29af0b4bfdc6fd3834ec0ec5897374d123f2f80f562c7ae3e5d08a1d62c53235",
-      "download_count": 0,
+      "download_count": 3,
       "created_at": "2026-11-03T15:14:50Z",
       "updated_at": "2026-11-03T15:15:04Z",
       "browser_download_url": "https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/mercury-linux-arm64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 115566768,
       "digest": "sha256:a3a8dd3019784154a2c763b3a4302492c4448d130ae01799140eb7372bb99097",
-      "download_count": 14,
+      "download_count": 51,
       "created_at": "2026-11-03T15:14:50Z",
       "updated_at": "2026-11-03T15:15:04Z",
       "browser_download_url": "https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/mercury-linux-x64"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 115566768,
       "digest": "sha256:00e998aaefba22a3f2a5842f48e4d1c7f17094d2f45da5aa43ed10e2cdc29085",
-      "download_count": 3,
+      "download_count": 6,
       "created_at": "2026-11-03T15:14:50Z",
       "updated_at": "2026-11-03T15:15:03Z",
       "browser_download_url": "https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/mercury-linux-x64-baseline"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 95649122,
       "digest": "sha256:bfae3f79e75549b7e5886b55a0d5c99a2cf72f517faecddd29f5a6654f837e5c",
-      "download_count": 53,
+      "download_count": 112,
       "created_at": "2026-11-03T15:14:50Z",
       "updated_at": "2026-11-03T15:14:59Z",
       "browser_download_url": "https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/mercury-macos-arm64"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 104607200,
       "digest": "sha256:4c68ebc2b0e989643d64d52f6904d81cfc02bab7c2ee463c6c1ed1c0f04ada5d",
-      "download_count": 8,
+      "download_count": 11,
       "created_at": "2026-11-03T15:14:51Z",
       "updated_at": "2026-11-03T15:14:56Z",
       "browser_download_url": "https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/mercury-macos-x64"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 121718784,
       "digest": "sha256:2e0e24f0acfee83e94405b068fdaff939329d5887cfcf24bd7a460a9f23f5b5f",
-      "download_count": 1,
+      "download_count": 4,
       "created_at": "2026-11-03T15:14:57Z",
       "updated_at": "2026-11-03T15:15:09Z",
       "browser_download_url": "https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/mercury-win-x64-baseline.exe"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 121718784,
       "digest": "sha256:3485a8418e2192a180354590f37e35387d7e1251802af781fdbe45f858e3f4a4",
-      "download_count": 28,
+      "download_count": 84,
       "created_at": "2026-11-03T15:14:59Z",
       "updated_at": "2026-11-03T15:15:13Z",
       "browser_download_url": "https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/mercury-win-x64.exe"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 5443678,
       "digest": "sha256:34c283d8934f72e1362f29d22ef5def3b15ba1b6074c0f478ea9400f0212b4e6",
-      "download_count": 5,
+      "download_count": 8,
       "created_at": "2026-11-03T15:24:33Z",
       "updated_at": "2026-11-03T15:24:34Z",
       "browser_download_url": "https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/Mercury_1.5.1_aarch64.dmg"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 84453880,
       "digest": "sha256:746a732c8f924a5ddd7d25f6c9217638117d4b3e24beaba52cb02ba8784834d0",
-      "download_count": 9,
+      "download_count": 35,
       "created_at": "2026-11-03T15:21:39Z",
       "updated_at": "2026-11-03T15:21:42Z",
       "browser_download_url": "https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/Mercury_1.5.1_amd64.AppImage"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 436,
       "digest": "sha256:f7afb4a0650753d6cbe1fb85c1e1d2ad50c811e52c6fb7d803854f32a5f75680",
-      "download_count": 1,
+      "download_count": 4,
       "created_at": "2026-11-03T15:21:42Z",
       "updated_at": "2026-11-03T15:21:42Z",
       "browser_download_url": "https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/Mercury_1.5.1_amd64.AppImage.sig"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 5892110,
       "digest": "sha256:63226e779f5ab35f50749bb915a13566fed5f9060c46c5bfd8115a3bdceca7da",
-      "download_count": 7,
+      "download_count": 22,
       "created_at": "2026-11-03T15:21:34Z",
       "updated_at": "2026-11-03T15:21:35Z",
       "browser_download_url": "https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/Mercury_1.5.1_amd64.deb"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 432,
       "digest": "sha256:199c9c363b2af766140ffafa9f703808207b873ba6afca590da39e11987b98ee",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-11-03T15:21:36Z",
       "updated_at": "2026-11-03T15:21:36Z",
       "browser_download_url": "https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/Mercury_1.5.1_amd64.deb.sig"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 4381445,
       "digest": "sha256:2489403458eb3189adc075986dd8c5b64cafc73982b2702190b38998d024572c",
-      "download_count": 69,
+      "download_count": 156,
       "created_at": "2026-11-03T15:24:09Z",
       "updated_at": "2026-11-03T15:24:09Z",
       "browser_download_url": "https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/Mercury_1.5.1_x64-setup.exe"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 436,
       "digest": "sha256:67c7ab7393633ee478ba27703723d78e8c4d2a55748ff2eb341af2f8f2c2e1e9",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-11-03T15:24:10Z",
       "updated_at": "2026-11-03T15:24:10Z",
       "browser_download_url": "https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/Mercury_1.5.1_x64-setup.exe.sig"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 5716476,
       "digest": "sha256:fe9d90e1a00b1f18f3fd56a59563fddae8dabd7a4915f3db6fa5e43b6b86d799",
-      "download_count": 1,
+      "download_count": 4,
       "created_at": "2026-11-03T15:25:56Z",
       "updated_at": "2026-11-03T15:25:57Z",
       "browser_download_url": "https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/Mercury_1.5.1_x64.dmg"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 5365760,
       "digest": "sha256:5b034b2abbfa3d2c4b6ce57947c5ee40bdba5917afe8f658d9085672e678dde4",
-      "download_count": 4,
+      "download_count": 13,
       "created_at": "2026-11-03T15:24:07Z",
       "updated_at": "2026-11-03T15:24:07Z",
       "browser_download_url": "https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/Mercury_1.5.1_x64_en-US.msi"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 436,
       "digest": "sha256:887093bfdac22077aa75014c0f428b5c4139f77cf10afcd5b85f38969132814c",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-11-03T15:24:08Z",
       "updated_at": "2026-11-03T15:24:08Z",
       "browser_download_url": "https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/Mercury_1.5.1_x64_en-US.msi.sig"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 5281367,
       "digest": "sha256:a1b1eb4f22a4b0dff1944c4e3791c7bdc5f0c0f195233263a6b5f4952be52acd",
-      "download_count": 66,
+      "download_count": 125,
       "created_at": "2026-11-03T15:24:34Z",
       "updated_at": "2026-11-03T15:24:35Z",
       "browser_download_url": "https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/Mercury_aarch64.app.tar.gz"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 424,
       "digest": "sha256:5735265ec6fb8aa5194c5fa155d24986a9c956287506a0bbce8b267afd78fe7f",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-11-03T15:24:36Z",
       "updated_at": "2026-11-03T15:24:36Z",
       "browser_download_url": "https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/Mercury_aarch64.app.tar.gz.sig"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 5532145,
       "digest": "sha256:8f98cb15efeb5d88d5217f1012c26995a75974796a33e2c615f47250ddb80b4b",
-      "download_count": 7,
+      "download_count": 9,
       "created_at": "2026-11-03T15:25:57Z",
       "updated_at": "2026-11-03T15:25:58Z",
       "browser_download_url": "https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/Mercury_x64.app.tar.gz"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 424,
       "digest": "sha256:6b8ba0020cad419121430497d0d5a771b440a7565c8167908f908c99b5908e41",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-11-03T15:25:58Z",
       "updated_at": "2026-11-03T15:25:59Z",
       "browser_download_url": "https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/Mercury_x64.app.tar.gz.sig"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 1377545,
       "digest": "sha256:b05046524d79b2d73ef7ade04f80fb37b0d2157f961f10a28cce5260c58cd2f8",
-      "download_count": 92,
+      "download_count": 232,
       "created_at": "2026-11-03T15:15:04Z",
       "updated_at": "2026-11-03T15:15:04Z",
       "browser_download_url": "https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.1/web.tar.gz"
