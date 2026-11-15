@@ -14,7 +14,7 @@ x install mercury-agent
 
 ## Code insight
 
-Total: **259,175** lines of code across **1527** files in the top 5 languages.
+Total: **259,177** lines of code across **1527** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -33,27 +33,27 @@ Total: **259,175** lines of code across **1527** files in the top 5 languages.
 ## Release
 
 - **Latest**: `optimus-v0.5.2` (2026-11-14)
-- **Last commit**: 2026-11-14
+- **Last commit**: 2026-11-15
 - **Assets in release**: 26
 
 ## Popularity
 
-- **Stars**: 3,902 · **Forks**: 397 · **Open issues**: 61 · **Contributors**: 29
+- **Stars**: 3,967 · **Forks**: 405 · **Open issues**: 61 · **Contributors**: 29
 
 ## Totals (cumulative)
 
-- **Releases**: 56 · **Merged PRs**: 177 · **Open PRs**: 17 · **Closed issues**: 50 · **Open issues**: 11 · **Commits**: 1077
+- **Releases**: 56 · **Merged PRs**: 177 · **Open PRs**: 17 · **Closed issues**: 50 · **Open issues**: 11 · **Commits**: 1083
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 12 | 74 | 17 | 9 | 3 | 418 |
-| last60d | 2026-09-15 | 21 | 142 | 17 | 13 | 3 | 640 |
-| 90d | 2026-08-16 | 26 | 149 | 17 | 13 | 3 | 691 |
-| last180d | 2026-05-18 | 31 | 163 | 17 | 41 | 5 | 739 |
-| 360d | 2025-11-19 | 56 | 177 | 17 | 50 | 11 | 933 |
-| last720d | 2024-11-24 | 56 | 177 | 17 | 50 | 11 | 1077 |
+| 30d | 2026-10-16 | 12 | 73 | 17 | 8 | 3 | 337 |
+| last60d | 2026-09-16 | 21 | 141 | 17 | 11 | 3 | 602 |
+| 90d | 2026-08-17 | 26 | 149 | 17 | 13 | 3 | 690 |
+| last180d | 2026-05-19 | 31 | 162 | 17 | 41 | 4 | 734 |
+| 360d | 2025-11-20 | 56 | 177 | 17 | 50 | 11 | 939 |
+| last720d | 2024-11-25 | 56 | 177 | 17 | 50 | 11 | 1083 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for mercury-agent lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T06:49:35Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T06:53:14Z._
