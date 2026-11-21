@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 691,
       "digest": "sha256:0e4c75b91c724946b73a1d6d4a3a3adbaff01546f891e75fbc1aa0e1dff09423",
-      "download_count": 67,
+      "download_count": 80,
       "created_at": "2026-11-17T10:50:14Z",
       "updated_at": "2026-11-17T10:50:15Z",
       "browser_download_url": "https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.4/checksums.txt"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 115919864,
       "digest": "sha256:8888eb70523d17d1ce384a5c112dc1acf6872a47de7a29d89d1a0f9347bccb7f",
-      "download_count": 7,
+      "download_count": 9,
       "created_at": "2026-11-17T10:50:14Z",
       "updated_at": "2026-11-17T10:50:20Z",
       "browser_download_url": "https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.4/mercury-linux-arm64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 115857584,
       "digest": "sha256:23bd92e161ad07f96c5184fc1be734bddcec29a771baa9a033a3ce8f450005ad",
-      "download_count": 24,
+      "download_count": 29,
       "created_at": "2026-11-17T10:50:14Z",
       "updated_at": "2026-11-17T10:50:21Z",
       "browser_download_url": "https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.4/mercury-linux-x64"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 115857584,
       "digest": "sha256:23976fa8346d321100b37b8246794ea2d8384dc6458bcd1b92a60e461f8bfa1a",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-11-17T10:50:14Z",
       "updated_at": "2026-11-17T10:50:22Z",
       "browser_download_url": "https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.4/mercury-linux-x64-baseline"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 95929826,
       "digest": "sha256:ab14c8a8a01d6cfedcc1de24901c4303c1a307750b2aef9ef5c7c3ce4dc1da05",
-      "download_count": 19,
+      "download_count": 24,
       "created_at": "2026-11-17T10:50:14Z",
       "updated_at": "2026-11-17T10:50:21Z",
       "browser_download_url": "https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.4/mercury-macos-arm64"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 122007040,
       "digest": "sha256:f4231b532f92298e9cf3179b5d91f2ca9cf1a5f4dada98a70dd2bb6f146457e6",
-      "download_count": 29,
+      "download_count": 33,
       "created_at": "2026-11-17T10:50:21Z",
       "updated_at": "2026-11-17T10:50:26Z",
       "browser_download_url": "https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.4/mercury-win-x64.exe"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 5452335,
       "digest": "sha256:35dc989545243cc2ca1fb32d8569ddb4c543264ab4d4a1bfd89da9bf1b91f8e3",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-11-17T10:58:05Z",
       "updated_at": "2026-11-17T10:58:06Z",
       "browser_download_url": "https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.4/Mercury_1.5.4_aarch64.dmg"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 84466168,
       "digest": "sha256:6ac7167d5665be320c825aef1d07360a3f080d84322083b23cd2533d90e9a0ae",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-11-17T10:56:01Z",
       "updated_at": "2026-11-17T10:56:04Z",
       "browser_download_url": "https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.4/Mercury_1.5.4_amd64.AppImage"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 5910224,
       "digest": "sha256:d520a8567aafc9bef45f33a5c787804a4d9df73226cda0191d0813ca7d4ebc29",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-11-17T10:55:57Z",
       "updated_at": "2026-11-17T10:55:57Z",
       "browser_download_url": "https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.4/Mercury_1.5.4_amd64.deb"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 4412375,
       "digest": "sha256:d53f676f62727763c3e648ea24b59614a09e598e341d0bffd915e418783cb0e4",
-      "download_count": 51,
+      "download_count": 58,
       "created_at": "2026-11-17T10:56:17Z",
       "updated_at": "2026-11-17T10:56:17Z",
       "browser_download_url": "https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.4/Mercury_1.5.4_x64-setup.exe"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 5398528,
       "digest": "sha256:441a7d22da24c920faa0c1f94a50d0e026090add15eabe02f8d1b2f92c7fd3af",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-17T10:56:15Z",
       "updated_at": "2026-11-17T10:56:16Z",
       "browser_download_url": "https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.4/Mercury_1.5.4_x64_en-US.msi"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 5292470,
       "digest": "sha256:6b56ee321f66502121058e2e6a44b04aeb3043a13063d4ddc3f9c67d2f0222ce",
-      "download_count": 40,
+      "download_count": 44,
       "created_at": "2026-11-17T10:58:06Z",
       "updated_at": "2026-11-17T10:58:07Z",
       "browser_download_url": "https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.4/Mercury_aarch64.app.tar.gz"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 5564306,
       "digest": "sha256:9394c7a533d2e165cd715a1fa7fe5c68c9146d5c5dbea4e729a3e7c25aa9542f",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-11-17T10:57:09Z",
       "updated_at": "2026-11-17T10:57:10Z",
       "browser_download_url": "https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.4/Mercury_x64.app.tar.gz"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 1384126,
       "digest": "sha256:5394ce3b1dc9de34eb845c34b4748a3ab1ae7a64b0950877e1b4da7e9f34f2d5",
-      "download_count": 61,
+      "download_count": 74,
       "created_at": "2026-11-17T10:50:22Z",
       "updated_at": "2026-11-17T10:50:22Z",
       "browser_download_url": "https://github.com/cosmicstack-labs/mercury-agent/releases/download/v1.5.4/web.tar.gz"
