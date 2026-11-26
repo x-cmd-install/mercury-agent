@@ -33,27 +33,27 @@ Total: **328,510** lines of code across **1549** files in the top 5 languages.
 ## Release
 
 - **Latest**: `captcha-v0.1.0` (2026-11-22)
-- **Last commit**: 2026-11-25
+- **Last commit**: 2026-11-26
 - **Assets in release**: 26
 
 ## Popularity
 
-- **Stars**: 4,070 · **Forks**: 420 · **Open issues**: 64 · **Contributors**: 29
+- **Stars**: 4,073 · **Forks**: 421 · **Open issues**: 64 · **Contributors**: 29
 
 ## Totals (cumulative)
 
-- **Releases**: 60 · **Merged PRs**: 179 · **Open PRs**: 23 · **Closed issues**: 50 · **Open issues**: 14 · **Commits**: 1259
+- **Releases**: 60 · **Merged PRs**: 179 · **Open PRs**: 24 · **Closed issues**: 50 · **Open issues**: 14 · **Commits**: 1261
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 12 | 46 | 20 | 5 | 4 | 340 |
-| last60d | 2026-09-26 | 25 | 136 | 23 | 11 | 6 | 761 |
-| 90d | 2026-08-27 | 30 | 151 | 23 | 13 | 6 | 858 |
-| last180d | 2026-05-29 | 34 | 160 | 23 | 40 | 7 | 891 |
-| 360d | 2025-11-30 | 60 | 179 | 23 | 50 | 14 | 1108 |
-| last720d | 2024-12-05 | 60 | 179 | 23 | 50 | 14 | 1259 |
+| 30d | 2026-10-27 | 11 | 46 | 21 | 5 | 4 | 342 |
+| last60d | 2026-09-27 | 25 | 136 | 24 | 11 | 6 | 763 |
+| 90d | 2026-08-28 | 30 | 151 | 24 | 13 | 6 | 860 |
+| last180d | 2026-05-30 | 34 | 159 | 24 | 40 | 7 | 893 |
+| 360d | 2025-12-01 | 60 | 179 | 24 | 50 | 14 | 1110 |
+| last720d | 2024-12-06 | 60 | 179 | 24 | 50 | 14 | 1261 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for mercury-agent lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T09:10:21Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T09:45:35Z._
